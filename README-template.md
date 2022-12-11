@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/nft-desktop-design-solution.png)
+![](./nft-desktop-design-solution.png)
 
 
 ### Links
